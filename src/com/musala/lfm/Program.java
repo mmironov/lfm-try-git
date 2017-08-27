@@ -3,7 +3,7 @@ package com.musala.lfm;
 public class Program {
 
 	public static void main(String[] args) {
-		System.out.println("A change in the program");
+		System.out.println("Im forced to do this, I dont want any of it");
 		print();
 	}
 	private static void print() {
